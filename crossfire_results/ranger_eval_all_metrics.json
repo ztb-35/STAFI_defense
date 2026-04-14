@@ -1,0 +1,177 @@
+[
+  {
+    "model_name": "flipped_bits_20251031-15_27_39_flipped",
+    "detected": true,
+    "n_elements_out_of_range": 1,
+    "attack_deltas": {
+      "speed up": -0.036516106445342304,
+      "speed up 2": -0.09896440371870995,
+      "velocity": 0.04491547703742981,
+      "slowing down": -0.034056358337402344,
+      "left steering": 0.020802366291172804,
+      "right steering": -0.020802366291172804,
+      "speed up & left steering": 0.024228559277641278,
+      "speed up & right steering": -0.017376173181498113
+    },
+    "clamp_repair_deltas": {
+      "speed up": -0.03405281079622607,
+      "speed up 2": -0.003547274023294449,
+      "velocity": 0.007790164550145467,
+      "slowing down": 0.03026282787322998,
+      "left steering": 0.0008746572692568104,
+      "right steering": -0.0008746572692568104,
+      "speed up & left steering": -0.0021698929335495147,
+      "speed up & right steering": -0.003919207470171386
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_20251031-16_23_48_flipped",
+    "detected": true,
+    "n_elements_out_of_range": 2,
+    "attack_deltas": {
+      "speed up": 3.154104012399912,
+      "speed up 2": 28.956260914802552,
+      "velocity": 0.626296401421229,
+      "slowing down": -4.012949066956838,
+      "left steering": 0.37646119540867706,
+      "right steering": -0.37646119540867706,
+      "speed up & left steering": 0.7801784209813922,
+      "speed up & right steering": 0.027256029037137825
+    },
+    "clamp_repair_deltas": {
+      "speed up": 0.053520376089339454,
+      "speed up 2": -0.04952686324715614,
+      "velocity": 0.00925453801949819,
+      "slowing down": -0.06201147476832072,
+      "left steering": 0.002076432534183065,
+      "right steering": -0.002076432534183065,
+      "speed up & left steering": 0.008315011705562939,
+      "speed up & right steering": 0.004162146631521561
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_20251114-21_04_09_flipped",
+    "detected": true,
+    "n_elements_out_of_range": 2,
+    "attack_deltas": {
+      "speed up": -1.3555878489973663e+37,
+      "speed up 2": 0.0,
+      "velocity": 5.997323237875318e+36,
+      "slowing down": 1.2886636841660403e+37,
+      "left steering": 3.3462082920742515e+35,
+      "right steering": -3.3462082920742515e+35,
+      "speed up & left steering": -9.61821551716196e+35,
+      "speed up & right steering": -1.6310632144885954e+36
+    },
+    "clamp_repair_deltas": {
+      "speed up": -0.8542041222751141,
+      "speed up 2": 0.0,
+      "velocity": 0.2622693306207657,
+      "slowing down": 0.8461020867029826,
+      "left steering": -0.003299542050808668,
+      "right steering": 0.003299542050808668,
+      "speed up & left steering": -0.08842047933489085,
+      "speed up & right steering": -0.08182139520222942
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_lead_prob_20251114-17_33_26_flipped",
+    "detected": true,
+    "n_elements_out_of_range": 2,
+    "attack_deltas": {
+      "speed up": 2.462204483350118,
+      "speed up 2": 589.8861693827312,
+      "velocity": 0.6189767834544182,
+      "slowing down": -5.859726417859395,
+      "left steering": -1.54409262077262,
+      "right steering": 1.54409262077262,
+      "speed up & left steering": -0.9545829013983409,
+      "speed up & right steering": 2.1336023373529316
+    },
+    "clamp_repair_deltas": {
+      "speed up": -0.00994368595071137,
+      "speed up 2": 0.005504437436660131,
+      "velocity": 0.0008222608764966329,
+      "slowing down": 0.008796254793802897,
+      "left steering": 0.00046485282635937137,
+      "right steering": -0.00046485282635937137,
+      "speed up & left steering": -0.0004200822938643493,
+      "speed up & right steering": -0.0013497879445761403
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_left_steering_9_flipped",
+    "detected": true,
+    "n_elements_out_of_range": 1,
+    "attack_deltas": {
+      "speed up": 4.056990895469983,
+      "speed up 2": 152.87687023798625,
+      "velocity": 8.73970344444116,
+      "slowing down": -13.021975826422374,
+      "left steering": 4.4625366637607415,
+      "right steering": -4.4625366637607415,
+      "speed up & left steering": 5.772594641049703,
+      "speed up & right steering": -3.152478690346082
+    },
+    "clamp_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  }
+]

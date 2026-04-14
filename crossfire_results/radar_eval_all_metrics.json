@@ -1,0 +1,177 @@
+[
+  {
+    "model_name": "flipped_bits_20251031-15_27_39_flipped",
+    "detected": true,
+    "n_grains_affected": 1,
+    "attack_deltas": {
+      "speed up": -0.23423171478013197,
+      "speed up 2": -0.046526787281036375,
+      "velocity": 0.05571570853392283,
+      "slowing down": 0.17305034001668293,
+      "left steering": 0.0016449618122229973,
+      "right steering": -0.0016449618122229973,
+      "speed up & left steering": -0.015764529646451895,
+      "speed up & right steering": -0.019054453283121497
+    },
+    "zero_repair_deltas": {
+      "speed up": 0.9275039381533862,
+      "speed up 2": -0.1461955305437247,
+      "velocity": -0.20896356970071792,
+      "slowing down": -1.1212483342488606,
+      "left steering": 0.09359170331930121,
+      "right steering": -0.09359170331930121,
+      "speed up & left steering": 0.2063933500678589,
+      "speed up & right steering": 0.019209943477374813
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_20251031-16_23_48_flipped",
+    "detected": true,
+    "n_grains_affected": 2,
+    "attack_deltas": {
+      "speed up": 1.379543053234617,
+      "speed up 2": 35.31998817205429,
+      "velocity": 0.9148747182885806,
+      "slowing down": -2.2619352833429973,
+      "left steering": 0.37347365379333497,
+      "right steering": -0.37347365379333497,
+      "speed up & left steering": 0.6010325451940298,
+      "speed up & right steering": -0.14591476391380032
+    },
+    "zero_repair_deltas": {
+      "speed up": -0.5505699959583581,
+      "speed up 2": 0.07076978246370952,
+      "velocity": 0.41225315690040587,
+      "slowing down": 0.4500003163019816,
+      "left steering": 0.015866582514718175,
+      "right steering": -0.015866582514718175,
+      "speed up & left steering": -0.029405080135911702,
+      "speed up & right steering": -0.06113824559220423
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_20251114-21_04_09_flipped",
+    "detected": true,
+    "n_grains_affected": 2,
+    "attack_deltas": {
+      "speed up": -1.3375010237549164e+37,
+      "speed up 2": 0.0,
+      "velocity": 5.917304399426672e+36,
+      "slowing down": 1.2714697924289413e+37,
+      "left steering": 3.3015617637089216e+35,
+      "right steering": -3.3015617637089216e+35,
+      "speed up & left steering": -9.489885257912006e+35,
+      "speed up & right steering": -1.609300874175436e+36
+    },
+    "zero_repair_deltas": {
+      "speed up": -0.45451555142800015,
+      "speed up 2": 0.0,
+      "velocity": 0.035174732903639476,
+      "slowing down": 0.44177523215611775,
+      "left steering": 0.006370160031753282,
+      "right steering": -0.006370160031753282,
+      "speed up & left steering": -0.038074029829973974,
+      "speed up & right steering": -0.05081434991831581
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_lead_prob_20251114-17_33_26_flipped",
+    "detected": true,
+    "n_grains_affected": 2,
+    "attack_deltas": {
+      "speed up": -0.4711019791165988,
+      "speed up 2": 595.279775950114,
+      "velocity": 1.12260686814785,
+      "slowing down": -3.2844982687632243,
+      "left steering": -1.7494441890344024,
+      "right steering": 1.7494441890344024,
+      "speed up & left steering": -1.4190117588887612,
+      "speed up & right steering": 2.079876627251506
+    },
+    "zero_repair_deltas": {
+      "speed up": -0.6364037412405014,
+      "speed up 2": -0.0017491428057352701,
+      "velocity": 0.15508901099363961,
+      "slowing down": 0.597907395362854,
+      "left steering": 0.00377175174963971,
+      "right steering": -0.00377175174963971,
+      "speed up & left steering": -0.05637989978694047,
+      "speed up & right steering": -0.06392340331726397
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  },
+  {
+    "model_name": "flipped_bits_left_steering_9_flipped",
+    "detected": true,
+    "n_grains_affected": 1,
+    "attack_deltas": {
+      "speed up": 1.2727968047062557,
+      "speed up 2": 147.99982657432557,
+      "velocity": 8.890095998048782,
+      "slowing down": -9.847101531028748,
+      "left steering": 4.245239761521419,
+      "right steering": -4.245239761521419,
+      "speed up & left steering": 5.235893851915995,
+      "speed up & right steering": -3.2545856571694216
+    },
+    "zero_repair_deltas": {
+      "speed up": -0.6386303759862979,
+      "speed up 2": 0.0067942337691783905,
+      "velocity": 0.15404643764098486,
+      "slowing down": 0.5992026313145955,
+      "left steering": 0.003746350995885829,
+      "right steering": -0.003746350995885829,
+      "speed up & left steering": -0.056535606222848096,
+      "speed up & right steering": -0.06402830803456405
+    },
+    "oracle_repair_deltas": {
+      "speed up": 0.0,
+      "speed up 2": 0.0,
+      "velocity": 0.0,
+      "slowing down": 0.0,
+      "left steering": 0.0,
+      "right steering": 0.0,
+      "speed up & left steering": 0.0,
+      "speed up & right steering": 0.0
+    }
+  }
+]
